@@ -113,13 +113,3 @@ My solution to the Big Mart Sales Competition https://datahack.analyticsvidhya.c
 **Note:** This document references key results and visualizations from the shared Colab notebook: [Big Mart Sales Prediction Notebook](https://colab.research.google.com/drive/1BhMtbhooumrcz-9dtzThPU8Wdjegy7zB?usp=sharing). The approach combines structured scripts and detailed exploratory insights.
 
 ---
-
-## Summary of Deliverables:
-
-1. **Code/Repository:** Full script with detailed comments.
-2. **EDA/Feature Engineering Notebook:** Documentation of transformations and insights.
-3. **Modeling Notebooks:** Scripts for model experimentation, tuning, and final selection.
-4. **Approach Note:** High-level summary of the entire process.
-
-By consolidating these deliverables, the submission will provide a comprehensive overview of the problem-solving journey and outcomes.
-
